@@ -3,7 +3,6 @@ A web-based Medical Camp Registration and Management System to handle patient re
 Technologies Used
 - Python
 - Flask
-- MySQL (if used)
 - HTML, CSS
 
 Features
